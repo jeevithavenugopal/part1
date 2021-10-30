@@ -1,2 +1,4 @@
 hi 
 This is just a file that has been created for pratice purpose.
+
+just to check wheater the commit command works without add cd.
